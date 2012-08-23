@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dimituri/beans.png)](http://travis-ci.org/dimituri/beans)
 # Beans
 
 Beans is a set of tools for authoring Node modules written in
